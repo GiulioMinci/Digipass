@@ -1,0 +1,1244 @@
+/* The Events Calendar Category Colors 6.4.9 */
+.teccc-legend a, .tribe-events-calendar a, #tribe-events-content .tribe-events-tooltip h4
+{
+	font-weight: bold;
+}
+
+.tribe-events-list .vevent.hentry h2 {
+	padding-left: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+	.tribe-events-calendar td .hentry,
+	.tribe-events-calendar td .type-tribe_events {
+		display: block;
+	}
+
+	h3.entry-title.summary,
+	h3.tribe-events-month-event-title,
+	.tribe-events-calendar .tribe-events-has-events:after {
+		display: none;
+	}
+
+	.tribe-events-calendar .mobile-trigger .tribe-events-tooltip {
+		display: none !important;
+	}
+}
+.tribe-events .tribe-events-calendar-month__multiday-event-bar,
+.tribe-events .tribe-events-calendar-month__multiday-event-bar-inner,
+.tribe-events-calendar-month__multiday-event-wrapper,
+.tribe-events-pro .tribe-events-pro-week-grid__multiday-event-bar,
+.tribe-events-pro .tribe-events-pro-week-grid__multiday-event-bar-inner,
+.tribe-events-pro .tribe-events-pro-week-grid__multiday-event-wrapper
+{ background-color: #F7F6F6; }
+
+
+	
+	.teccc-legend .tribe_events_cat-dacasapuoi a,
+.tribe-common article.tribe_events_cat-dacasapuoi h3 a,
+.tribe-common article.tribe_events_cat-dacasapuoi h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-dacasapuoi h3,
+				.tribe-events-category-dacasapuoi h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-dacasapuoi h2.tribe-events-list-event-title a,
+.tribe-events-category-dacasapuoi h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-dacasapuoi h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-dacasapuoi h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-dacasapuoi,
+		.tribe-events-list-widget li.tribe-events-category-dacasapuoi a:link,
+.tribe-events-list-widget li.tribe-events-category-dacasapuoi a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-dacasapuoi a:link,
+li.tribe-events-list-widget-events.tribe-events-category-dacasapuoi a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-dacasapuoi h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-dacasapuoi.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-dacasapuoi .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-dacasapuoi a,
+.tribe-events-calendar .tribe-events-category-dacasapuoi a,
+#tribe-events-content .teccc-legend .tribe-events-category-dacasapuoi a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-dacasapuoi a,
+.type-tribe_events.tribe-events-category-dacasapuoi h2 a,
+.tribe-events-category-dacasapuoi > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-dacasapuoi h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-dacasapuoi,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-dacasapuoi .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-dacasapuoi h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-dacasapuoi h3,
+				.tribe-events-category-dacasapuoi h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-dacasapuoi,
+	.tribe-events-list-widget li.tribe-events-category-dacasapuoi h4,
+li.tribe-events-list-widget-events.tribe-events-category-dacasapuoi h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-dacasapuoi,
+.teccc-legend .tribe-events-category-dacasapuoi,
+.tribe-events-calendar .tribe-events-category-dacasapuoi,
+#tribe-events-content .tribe-events-category-dacasapuoi > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-dacasapuoi h2,
+.tribe-events-category-dacasapuoi > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-dacasapuoi h4
+{
+			background-color: #ff16dc;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-dacasapuoi,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-dacasapuoi,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-dacasapuoi a:link,
+.tribe-events-list-widget li.tribe-events-category-dacasapuoi a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-dacasapuoi a:link,
+li.tribe-events-list-widget-events.tribe-events-category-dacasapuoi a:visited,
+	.tribe-events-category-dacasapuoi h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-dacasapuoi h2.tribe-events-list-event-title a,
+.tribe-events-category-dacasapuoi h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-dacasapuoi h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-dacasapuoi h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-assisi a,
+.tribe-common article.tribe_events_cat-digipass-assisi h3 a,
+.tribe-common article.tribe_events_cat-digipass-assisi h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-assisi h3,
+				.tribe-events-category-digipass-assisi h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-assisi h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-assisi h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-assisi h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-assisi h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-assisi,
+		.tribe-events-list-widget li.tribe-events-category-digipass-assisi a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-assisi a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-assisi a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-assisi a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-assisi h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-assisi.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-assisi .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-assisi a,
+.tribe-events-calendar .tribe-events-category-digipass-assisi a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-assisi a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-assisi a,
+.type-tribe_events.tribe-events-category-digipass-assisi h2 a,
+.tribe-events-category-digipass-assisi > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-assisi h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-assisi,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-assisi .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-assisi h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-assisi h3,
+				.tribe-events-category-digipass-assisi h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-assisi,
+	.tribe-events-list-widget li.tribe-events-category-digipass-assisi h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-assisi h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-assisi,
+.teccc-legend .tribe-events-category-digipass-assisi,
+.tribe-events-calendar .tribe-events-category-digipass-assisi,
+#tribe-events-content .tribe-events-category-digipass-assisi > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-assisi h2,
+.tribe-events-category-digipass-assisi > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-assisi h4
+{
+			background-color: #f45858;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-assisi,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-assisi,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-assisi a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-assisi a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-assisi a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-assisi a:visited,
+	.tribe-events-category-digipass-assisi h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-assisi h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-assisi h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-assisi h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-assisi h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-citta-di-castello a,
+.tribe-common article.tribe_events_cat-digipass-citta-di-castello h3 a,
+.tribe-common article.tribe_events_cat-digipass-citta-di-castello h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-citta-di-castello h3,
+				.tribe-events-category-digipass-citta-di-castello h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-citta-di-castello h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-citta-di-castello,
+		.tribe-events-list-widget li.tribe-events-category-digipass-citta-di-castello a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-citta-di-castello a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-citta-di-castello a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-citta-di-castello a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-citta-di-castello.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-citta-di-castello .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-citta-di-castello a,
+.tribe-events-calendar .tribe-events-category-digipass-citta-di-castello a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-citta-di-castello a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-citta-di-castello a,
+.type-tribe_events.tribe-events-category-digipass-citta-di-castello h2 a,
+.tribe-events-category-digipass-citta-di-castello > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-citta-di-castello h4 a
+{
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-citta-di-castello,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-citta-di-castello .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-citta-di-castello h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-citta-di-castello h3,
+				.tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-citta-di-castello,
+	.tribe-events-list-widget li.tribe-events-category-digipass-citta-di-castello h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-citta-di-castello h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-citta-di-castello,
+.teccc-legend .tribe-events-category-digipass-citta-di-castello,
+.tribe-events-calendar .tribe-events-category-digipass-citta-di-castello,
+#tribe-events-content .tribe-events-category-digipass-citta-di-castello > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-citta-di-castello h2,
+.tribe-events-category-digipass-citta-di-castello > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-citta-di-castello h4
+{
+			background-color: #f78e25;
+				border-right: 5px solid transparent;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-citta-di-castello,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-citta-di-castello,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-citta-di-castello a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-citta-di-castello a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-citta-di-castello a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-citta-di-castello a:visited,
+	.tribe-events-category-digipass-citta-di-castello h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-citta-di-castello h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-citta-di-castello h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-foligno a,
+.tribe-common article.tribe_events_cat-digipass-foligno h3 a,
+.tribe-common article.tribe_events_cat-digipass-foligno h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-foligno h3,
+				.tribe-events-category-digipass-foligno h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-foligno h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-foligno h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-foligno h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-foligno h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-foligno,
+		.tribe-events-list-widget li.tribe-events-category-digipass-foligno a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-foligno a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-foligno a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-foligno a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-foligno h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-foligno.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-foligno .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-foligno a,
+.tribe-events-calendar .tribe-events-category-digipass-foligno a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-foligno a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-foligno a,
+.type-tribe_events.tribe-events-category-digipass-foligno h2 a,
+.tribe-events-category-digipass-foligno > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-foligno h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-foligno,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-foligno .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-foligno h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-foligno h3,
+				.tribe-events-category-digipass-foligno h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-foligno,
+	.tribe-events-list-widget li.tribe-events-category-digipass-foligno h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-foligno h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-foligno,
+.teccc-legend .tribe-events-category-digipass-foligno,
+.tribe-events-calendar .tribe-events-category-digipass-foligno,
+#tribe-events-content .tribe-events-category-digipass-foligno > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-foligno h2,
+.tribe-events-category-digipass-foligno > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-foligno h4
+{
+			background-color: #8625c6;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-foligno,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-foligno,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-foligno a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-foligno a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-foligno a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-foligno a:visited,
+	.tribe-events-category-digipass-foligno h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-foligno h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-foligno h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-foligno h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-foligno h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-gubbio a,
+.tribe-common article.tribe_events_cat-digipass-gubbio h3 a,
+.tribe-common article.tribe_events_cat-digipass-gubbio h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-gubbio h3,
+				.tribe-events-category-digipass-gubbio h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-gubbio h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-gubbio,
+		.tribe-events-list-widget li.tribe-events-category-digipass-gubbio a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-gubbio a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-gubbio a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-gubbio a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-gubbio.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-gubbio .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-gubbio a,
+.tribe-events-calendar .tribe-events-category-digipass-gubbio a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-gubbio a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-gubbio a,
+.type-tribe_events.tribe-events-category-digipass-gubbio h2 a,
+.tribe-events-category-digipass-gubbio > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-gubbio h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-gubbio,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-gubbio .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-gubbio h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-gubbio h3,
+				.tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-gubbio,
+	.tribe-events-list-widget li.tribe-events-category-digipass-gubbio h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-gubbio h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-gubbio,
+.teccc-legend .tribe-events-category-digipass-gubbio,
+.tribe-events-calendar .tribe-events-category-digipass-gubbio,
+#tribe-events-content .tribe-events-category-digipass-gubbio > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-gubbio h2,
+.tribe-events-category-digipass-gubbio > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-gubbio h4
+{
+			background-color: #050f82;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-gubbio,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-gubbio,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-gubbio a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-gubbio a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-gubbio a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-gubbio a:visited,
+	.tribe-events-category-digipass-gubbio h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-gubbio h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-gubbio h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-media-valle-del-tevere a,
+.tribe-common article.tribe_events_cat-digipass-media-valle-del-tevere h3 a,
+.tribe-common article.tribe_events_cat-digipass-media-valle-del-tevere h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+				.tribe-events-category-digipass-media-valle-del-tevere h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-media-valle-del-tevere h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-media-valle-del-tevere,
+		.tribe-events-list-widget li.tribe-events-category-digipass-media-valle-del-tevere a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-media-valle-del-tevere a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-media-valle-del-tevere a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-media-valle-del-tevere a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-media-valle-del-tevere.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-media-valle-del-tevere .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-media-valle-del-tevere a,
+.tribe-events-calendar .tribe-events-category-digipass-media-valle-del-tevere a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-media-valle-del-tevere a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-media-valle-del-tevere a,
+.type-tribe_events.tribe-events-category-digipass-media-valle-del-tevere h2 a,
+.tribe-events-category-digipass-media-valle-del-tevere > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-media-valle-del-tevere h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-media-valle-del-tevere,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-media-valle-del-tevere .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-media-valle-del-tevere h3,
+				.tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-media-valle-del-tevere,
+	.tribe-events-list-widget li.tribe-events-category-digipass-media-valle-del-tevere h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-media-valle-del-tevere h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-media-valle-del-tevere,
+.teccc-legend .tribe-events-category-digipass-media-valle-del-tevere,
+.tribe-events-calendar .tribe-events-category-digipass-media-valle-del-tevere,
+#tribe-events-content .tribe-events-category-digipass-media-valle-del-tevere > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-media-valle-del-tevere h2,
+.tribe-events-category-digipass-media-valle-del-tevere > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-media-valle-del-tevere h4
+{
+			background-color: #a82121;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-media-valle-del-tevere,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-media-valle-del-tevere,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-media-valle-del-tevere a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-media-valle-del-tevere a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-media-valle-del-tevere a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-media-valle-del-tevere a:visited,
+	.tribe-events-category-digipass-media-valle-del-tevere h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-media-valle-del-tevere h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-media-valle-del-tevere h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-narni a,
+.tribe-common article.tribe_events_cat-digipass-narni h3 a,
+.tribe-common article.tribe_events_cat-digipass-narni h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-narni h3,
+				.tribe-events-category-digipass-narni h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-narni h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-narni h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-narni h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-narni h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-narni,
+		.tribe-events-list-widget li.tribe-events-category-digipass-narni a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-narni a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-narni a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-narni a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-narni h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-narni.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-narni .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-narni a,
+.tribe-events-calendar .tribe-events-category-digipass-narni a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-narni a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-narni a,
+.type-tribe_events.tribe-events-category-digipass-narni h2 a,
+.tribe-events-category-digipass-narni > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-narni h4 a
+{
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-narni,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-narni h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-narni .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-narni h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-narni h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-narni h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-narni h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-narni h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-narni h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-narni h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-narni h3,
+				.tribe-events-category-digipass-narni h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-narni,
+	.tribe-events-list-widget li.tribe-events-category-digipass-narni h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-narni h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-narni,
+.teccc-legend .tribe-events-category-digipass-narni,
+.tribe-events-calendar .tribe-events-category-digipass-narni,
+#tribe-events-content .tribe-events-category-digipass-narni > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-narni h2,
+.tribe-events-category-digipass-narni > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-narni h4
+{
+			background-color: #5cd14d;
+				border-right: 5px solid transparent;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-narni,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-narni,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-narni a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-narni a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-narni a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-narni a:visited,
+	.tribe-events-category-digipass-narni h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-narni h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-narni h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-narni h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-narni h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-norcia a,
+.tribe-common article.tribe_events_cat-digipass-norcia h3 a,
+.tribe-common article.tribe_events_cat-digipass-norcia h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-norcia h3,
+				.tribe-events-category-digipass-norcia h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-norcia h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-norcia h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-norcia h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-norcia h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-norcia,
+		.tribe-events-list-widget li.tribe-events-category-digipass-norcia a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-norcia a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-norcia a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-norcia a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-norcia h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-norcia.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-norcia .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-norcia a,
+.tribe-events-calendar .tribe-events-category-digipass-norcia a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-norcia a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-norcia a,
+.type-tribe_events.tribe-events-category-digipass-norcia h2 a,
+.tribe-events-category-digipass-norcia > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-norcia h4 a
+{
+			color: ;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-norcia,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-norcia .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-norcia h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-norcia h3,
+				.tribe-events-category-digipass-norcia h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-norcia,
+	.tribe-events-list-widget li.tribe-events-category-digipass-norcia h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-norcia h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-norcia,
+.teccc-legend .tribe-events-category-digipass-norcia,
+.tribe-events-calendar .tribe-events-category-digipass-norcia,
+#tribe-events-content .tribe-events-category-digipass-norcia > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-norcia h2,
+.tribe-events-category-digipass-norcia > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-norcia h4
+{
+				border-right: 5px solid transparent;
+			color: ;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-norcia,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-norcia,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-norcia a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-norcia a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-norcia a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-norcia a:visited,
+	.tribe-events-category-digipass-norcia h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-norcia h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-norcia h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-norcia h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-norcia h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-orvieto a,
+.tribe-common article.tribe_events_cat-digipass-orvieto h3 a,
+.tribe-common article.tribe_events_cat-digipass-orvieto h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-orvieto h3,
+				.tribe-events-category-digipass-orvieto h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-orvieto h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-orvieto,
+		.tribe-events-list-widget li.tribe-events-category-digipass-orvieto a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-orvieto a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-orvieto a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-orvieto a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-orvieto.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-orvieto .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-orvieto a,
+.tribe-events-calendar .tribe-events-category-digipass-orvieto a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-orvieto a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-orvieto a,
+.type-tribe_events.tribe-events-category-digipass-orvieto h2 a,
+.tribe-events-category-digipass-orvieto > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-orvieto h4 a
+{
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-orvieto,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-orvieto .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-orvieto h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-orvieto h3,
+				.tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-orvieto,
+	.tribe-events-list-widget li.tribe-events-category-digipass-orvieto h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-orvieto h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-orvieto,
+.teccc-legend .tribe-events-category-digipass-orvieto,
+.tribe-events-calendar .tribe-events-category-digipass-orvieto,
+#tribe-events-content .tribe-events-category-digipass-orvieto > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-orvieto h2,
+.tribe-events-category-digipass-orvieto > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-orvieto h4
+{
+			background-color: #61d3c0;
+				border-right: 5px solid transparent;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-orvieto,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-orvieto,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-orvieto a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-orvieto a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-orvieto a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-orvieto a:visited,
+	.tribe-events-category-digipass-orvieto h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-orvieto h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-orvieto h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-perugia a,
+.tribe-common article.tribe_events_cat-digipass-perugia h3 a,
+.tribe-common article.tribe_events_cat-digipass-perugia h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-perugia h3,
+				.tribe-events-category-digipass-perugia h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-perugia h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-perugia h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-perugia h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-perugia h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-perugia,
+		.tribe-events-list-widget li.tribe-events-category-digipass-perugia a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-perugia a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-perugia a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-perugia a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-perugia h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-perugia.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-perugia .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-perugia a,
+.tribe-events-calendar .tribe-events-category-digipass-perugia a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-perugia a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-perugia a,
+.type-tribe_events.tribe-events-category-digipass-perugia h2 a,
+.tribe-events-category-digipass-perugia > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-perugia h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-perugia,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-perugia .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-perugia h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-perugia h3,
+				.tribe-events-category-digipass-perugia h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-perugia,
+	.tribe-events-list-widget li.tribe-events-category-digipass-perugia h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-perugia h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-perugia,
+.teccc-legend .tribe-events-category-digipass-perugia,
+.tribe-events-calendar .tribe-events-category-digipass-perugia,
+#tribe-events-content .tribe-events-category-digipass-perugia > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-perugia h2,
+.tribe-events-category-digipass-perugia > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-perugia h4
+{
+			background-color: #d81765;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-perugia,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-perugia,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-perugia a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-perugia a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-perugia a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-perugia a:visited,
+	.tribe-events-category-digipass-perugia h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-perugia h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-perugia h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-perugia h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-perugia h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-spoleto a,
+.tribe-common article.tribe_events_cat-digipass-spoleto h3 a,
+.tribe-common article.tribe_events_cat-digipass-spoleto h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-spoleto h3,
+				.tribe-events-category-digipass-spoleto h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-spoleto h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-spoleto,
+		.tribe-events-list-widget li.tribe-events-category-digipass-spoleto a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-spoleto a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-spoleto a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-spoleto a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-spoleto.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-spoleto .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-spoleto a,
+.tribe-events-calendar .tribe-events-category-digipass-spoleto a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-spoleto a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-spoleto a,
+.type-tribe_events.tribe-events-category-digipass-spoleto h2 a,
+.tribe-events-category-digipass-spoleto > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-spoleto h4 a
+{
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-spoleto,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-spoleto .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-spoleto h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-spoleto h3,
+				.tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-spoleto,
+	.tribe-events-list-widget li.tribe-events-category-digipass-spoleto h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-spoleto h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-spoleto,
+.teccc-legend .tribe-events-category-digipass-spoleto,
+.tribe-events-calendar .tribe-events-category-digipass-spoleto,
+#tribe-events-content .tribe-events-category-digipass-spoleto > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-spoleto h2,
+.tribe-events-category-digipass-spoleto > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-spoleto h4
+{
+			background-color: #e2f200;
+				border-right: 5px solid transparent;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-spoleto,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-spoleto,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-spoleto a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-spoleto a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-spoleto a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-spoleto a:visited,
+	.tribe-events-category-digipass-spoleto h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-spoleto h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-spoleto h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-terni a,
+.tribe-common article.tribe_events_cat-digipass-terni h3 a,
+.tribe-common article.tribe_events_cat-digipass-terni h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-terni h3,
+				.tribe-events-category-digipass-terni h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-terni h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-terni h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-terni h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-terni h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-terni,
+		.tribe-events-list-widget li.tribe-events-category-digipass-terni a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-terni a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-terni a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-terni a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-terni h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-terni.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-terni .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-terni a,
+.tribe-events-calendar .tribe-events-category-digipass-terni a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-terni a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-terni a,
+.type-tribe_events.tribe-events-category-digipass-terni h2 a,
+.tribe-events-category-digipass-terni > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-terni h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-terni,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-terni h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-terni .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-terni h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-terni h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-terni h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-terni h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-terni h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-terni h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-terni h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-terni h3,
+				.tribe-events-category-digipass-terni h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-terni,
+	.tribe-events-list-widget li.tribe-events-category-digipass-terni h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-terni h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-terni,
+.teccc-legend .tribe-events-category-digipass-terni,
+.tribe-events-calendar .tribe-events-category-digipass-terni,
+#tribe-events-content .tribe-events-category-digipass-terni > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-terni h2,
+.tribe-events-category-digipass-terni > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-terni h4
+{
+			background-color: #018203;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-terni,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-terni,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-terni a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-terni a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-terni a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-terni a:visited,
+	.tribe-events-category-digipass-terni h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-terni h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-terni h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-terni h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-terni h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-trasimeno a,
+.tribe-common article.tribe_events_cat-digipass-trasimeno h3 a,
+.tribe-common article.tribe_events_cat-digipass-trasimeno h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-trasimeno h3,
+				.tribe-events-category-digipass-trasimeno h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-trasimeno h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-trasimeno,
+		.tribe-events-list-widget li.tribe-events-category-digipass-trasimeno a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-trasimeno a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-trasimeno a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-trasimeno a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-trasimeno.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-trasimeno .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-trasimeno a,
+.tribe-events-calendar .tribe-events-category-digipass-trasimeno a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-trasimeno a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-trasimeno a,
+.type-tribe_events.tribe-events-category-digipass-trasimeno h2 a,
+.tribe-events-category-digipass-trasimeno > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-trasimeno h4 a
+{
+			color: ;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-trasimeno,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-trasimeno .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-trasimeno h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-trasimeno h3,
+				.tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-trasimeno,
+	.tribe-events-list-widget li.tribe-events-category-digipass-trasimeno h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-trasimeno h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-trasimeno,
+.teccc-legend .tribe-events-category-digipass-trasimeno,
+.tribe-events-calendar .tribe-events-category-digipass-trasimeno,
+#tribe-events-content .tribe-events-category-digipass-trasimeno > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-trasimeno h2,
+.tribe-events-category-digipass-trasimeno > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-trasimeno h4
+{
+				border-right: 5px solid transparent;
+			color: ;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-trasimeno,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-trasimeno,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-trasimeno a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-trasimeno a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-trasimeno a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-trasimeno a:visited,
+	.tribe-events-category-digipass-trasimeno h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-trasimeno h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-trasimeno h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-digipass-umbria a,
+.tribe-common article.tribe_events_cat-digipass-umbria h3 a,
+.tribe-common article.tribe_events_cat-digipass-umbria h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-umbria h3,
+				.tribe-events-category-digipass-umbria h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-umbria h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-umbria h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-umbria h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-umbria h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-umbria,
+		.tribe-events-list-widget li.tribe-events-category-digipass-umbria a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-umbria a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-umbria a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-umbria a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-umbria h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-digipass-umbria.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-umbria .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-digipass-umbria a,
+.tribe-events-calendar .tribe-events-category-digipass-umbria a,
+#tribe-events-content .teccc-legend .tribe-events-category-digipass-umbria a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-digipass-umbria a,
+.type-tribe_events.tribe-events-category-digipass-umbria h2 a,
+.tribe-events-category-digipass-umbria > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-digipass-umbria h4 a
+{
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-digipass-umbria,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-digipass-umbria .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-digipass-umbria h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-digipass-umbria h3,
+				.tribe-events-category-digipass-umbria h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-digipass-umbria,
+	.tribe-events-list-widget li.tribe-events-category-digipass-umbria h4,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-umbria h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-digipass-umbria,
+.teccc-legend .tribe-events-category-digipass-umbria,
+.tribe-events-calendar .tribe-events-category-digipass-umbria,
+#tribe-events-content .tribe-events-category-digipass-umbria > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-digipass-umbria h2,
+.tribe-events-category-digipass-umbria > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-digipass-umbria h4
+{
+			background-color: #CFCFCF;
+				border-left: 5px solid #CFCFCF;
+			border-right: 5px solid transparent;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-digipass-umbria,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-digipass-umbria,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-digipass-umbria a:link,
+.tribe-events-list-widget li.tribe-events-category-digipass-umbria a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-umbria a:link,
+li.tribe-events-list-widget-events.tribe-events-category-digipass-umbria a:visited,
+	.tribe-events-category-digipass-umbria h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-digipass-umbria h2.tribe-events-list-event-title a,
+.tribe-events-category-digipass-umbria h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-digipass-umbria h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-digipass-umbria h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+	
+	.teccc-legend .tribe_events_cat-progettogemma a,
+.tribe-common article.tribe_events_cat-progettogemma h3 a,
+.tribe-common article.tribe_events_cat-progettogemma h3 a:link,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-progettogemma h3,
+				.tribe-events-category-progettogemma h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-progettogemma h2.tribe-events-list-event-title a,
+.tribe-events-category-progettogemma h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-progettogemma h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-progettogemma h3.tribe-events-list-event-title a,
+	.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-progettogemma,
+		.tribe-events-list-widget li.tribe-events-category-progettogemma a:link,
+.tribe-events-list-widget li.tribe-events-category-progettogemma a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-progettogemma a:link,
+li.tribe-events-list-widget-events.tribe-events-category-progettogemma a:visited,
+	.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-progettogemma h3.tribe-events-list-event-title a:hover,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-events-category-progettogemma.tribe-event-featured h3.tribe-events-month-event-title a:hover,
+	#tribe-events-content table.tribe-events-calendar .tribe-event-featured.tribe-events-category-progettogemma .tribe-events-month-event-title a,
+.teccc-legend .tribe-events-category-progettogemma a,
+.tribe-events-calendar .tribe-events-category-progettogemma a,
+#tribe-events-content .teccc-legend .tribe-events-category-progettogemma a,
+#tribe-events-content .tribe-events-calendar .tribe-events-category-progettogemma a,
+.type-tribe_events.tribe-events-category-progettogemma h2 a,
+.tribe-events-category-progettogemma > div.hentry.vevent > h3.entry-title a,
+.tribe-events-mobile.tribe-events-category-progettogemma h4 a
+{
+			color: #fff;
+		text-decoration: none;
+}
+
+	.teccc-legend .tribe_events_cat-progettogemma,
+article.tribe-events-calendar-month__calendar-event.tribe_events_cat-progettogemma h3,
+article.tribe-events-calendar-month__multiday-event.tribe_events_cat-progettogemma .tribe-events-calendar-month__multiday-event-bar-inner,
+article.tribe-events-calendar-month-mobile-events__mobile-event.tribe_events_cat-progettogemma h3,
+article.tribe-events-calendar-day__event.tribe_events_cat-progettogemma h3,
+article.tribe-events-calendar-list__event.tribe_events_cat-progettogemma h3,
+article.tribe-events-pro-photo__event.tribe_events_cat-progettogemma h3,
+article.tribe-events-pro-map__event-card.tribe_events_cat-progettogemma h3,
+article.tribe-events-pro-week-grid__event.tribe_events_cat-progettogemma h3,
+article.tribe-events-pro-week-mobile-events__event.tribe_events_cat-progettogemma h3,
+article.tribe-events-pro-week-grid__multiday-event.tribe_events_cat-progettogemma h3,
+				.tribe-events-category-progettogemma h3.tribe-events-list-event-title,
+			.tribe-events-shortcode .tribe-events-month table .type-tribe_events.tribe-events-category-progettogemma,
+	.tribe-events-list-widget li.tribe-events-category-progettogemma h4,
+li.tribe-events-list-widget-events.tribe-events-category-progettogemma h4,
+	.events-archive.events-gridview #tribe-events-content table .type-tribe_events.tribe-events-category-progettogemma,
+.teccc-legend .tribe-events-category-progettogemma,
+.tribe-events-calendar .tribe-events-category-progettogemma,
+#tribe-events-content .tribe-events-category-progettogemma > .tribe-events-tooltip h3,
+.type-tribe_events.tribe-events-category-progettogemma h2,
+.tribe-events-category-progettogemma > div.hentry.vevent > h3.entry-title,
+.tribe-events-mobile.tribe-events-category-progettogemma h4
+{
+			background-color: #a0a0a0;
+				border-right: 5px solid transparent;
+			color: #fff;
+		line-height: 1.4em;
+	padding-left: 5px;
+	padding-bottom: 2px;
+}
+
+	.tribe-events-calendar .tribe-event-featured.tribe-events-category-progettogemma,
+#tribe-events-content table.tribe-events-calendar .type-tribe_events.tribe-event-featured.tribe-events-category-progettogemma,
+.tribe-grid-body div[id*='tribe-events-event-'][class*='tribe-events-category-'].tribe-events-week-hourly-single.tribe-event-featured 
+{ border-right: 5px solid #0ea0d7 }
+
+	
+		.tribe-events-list-widget li.tribe-events-category-progettogemma a:link,
+.tribe-events-list-widget li.tribe-events-category-progettogemma a:visited,
+li.tribe-events-list-widget-events.tribe-events-category-progettogemma a:link,
+li.tribe-events-list-widget-events.tribe-events-category-progettogemma a:visited,
+	.tribe-events-category-progettogemma h2.tribe-events-list-event-title.entry-title a,
+.tribe-events-category-progettogemma h2.tribe-events-list-event-title a,
+.tribe-events-category-progettogemma h3.tribe-events-list-event-title a,
+.tribe-event-featured .tribe-events-category-progettogemma h3.tribe-events-list-event-title a,
+.tribe-events-list .tribe-events-loop .tribe-event-featured.tribe-events-category-progettogemma h3.tribe-events-list-event-title a,
+{
+	width: auto;
+	display: block;
+}
+
+	
+#legend_box
+{
+	font: bold 10px/4em sans-serif;
+	text-align: center;
+	width: 100%;
+}
+
+#legend a { text-decoration: none; }
+
+#tribe-events #legend li, .tribe-events #legend li
+{
+	display: inline-block;
+	list-style-type: none;
+	padding: 7px;
+	margin: 0 0 1em 0.7em;
+}
+
+#legend_box #legend li span { cursor: pointer; }
