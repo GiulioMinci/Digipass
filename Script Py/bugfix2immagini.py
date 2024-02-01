@@ -74,5 +74,5 @@ def elabora_cartella(directory):
                 correggi_url(file_path, indice)
 
 # Esegui l'elaborazione per la tua cartella e tutte le sottocartelle
-cartella_principale = r'C:\Users\giuli\Desktop\digipass.regione.umbria.it'
+cartella_principale = r'Percorso directory principale'
 elabora_cartella(cartella_principale)
