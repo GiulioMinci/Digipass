@@ -1,0 +1,140 @@
+README
+
+"This is a static version of the website https://www.digipass.regione.umbria.it published in may 2019 and updated with a new website in february 2024 
+- Wayback Time Machine archive at https://web.archive.org/web/20231215014328/https://digipass.regione.umbria.it/
+- The website Digipass.regione.umbria.it was published on wordpress, downloaded with httrack and republished in a static version on Github Pages, 
+- The original website had a script to manage events at the page /eventi, because of the many pages generated it was impossible to have a valid porting in github
+- The page /eventi was replaced by an html <div to display the content in a table
+- The images download with httrack where referenced to the original website
+- The mobile version was not working properly in Github Pages
+___________________________________________________________________
+
+The scripts used to parse, to fix porting bugs and to clean the code :
+___________________________________________________________________
+
+bugfix2immagini.py = Image URL Replacement Script
+This Python script utilizes BeautifulSoup and os modules to update image URLs in HTML files. The script is designed to replace the absolute paths of image sources (src) and source sets (srcset) with relative paths based on the file structure.
+
+Usage
+Requirements:
+Ensure you have Python installed on your system.
+Install the required Python packages by running:
+pip install beautifulsoup4
+
+Clone the Repository:
+git clone https://github.com/GiulioMinci/Digipass.git
+
+Navigate to the Script Directory:
+cd directory where the script is stored 
+
+Run the Script:
+Open your terminal and run the script with the following command:
+python bugfix2immagini.py
+
+Provide the Main Directory Path:
+When prompted, enter the main directory path containing the HTML files you want to process.
+Script Execution:
+
+The script will recursively search for HTML files in the specified directory and its subdirectories.
+It will update the image URLs in the HTML files, replacing absolute paths with relative paths based on the file structure.
+The updated files will be saved in-place.
+Important Note
+Ensure that the HTML files have the necessary <img> tags with src or srcset attributes for the script to process.
+Make a backup of your HTML files before running the script to avoid unintended data loss.
+Example
+Consider the following directory structure:
+/your-repo
+|-- index.html
+|-- images
+|   |-- image1.jpg
+|   |-- image2.jpg
+|-- subdirectory
+|   |-- index.html
+|   |-- images
+|       |-- image3.jpg
+
+Running the script in the /your-repo directory will update the image URLs in both index.html files.
+Disclaimer
+This script is provided as-is and without any warranty. Use it at your own risk. It is recommended to test the script on a small set of files and keep backups before applying it to your entire project.
+___________________________________________________________________
+listaevento.py = HTML File Date Extraction and Listing
+It iterates the selected directory, it populates a list with page name, publish date and url; the date is in italian so the code has a correspondency language table.
+The script confront the title page to avoid duplicates, because many pages where published with capital letters and many without the title is compared in a non sensitive way.
+Still some pages are duplicates because some titles, even though are about the same content, they do have a different name es: ( Page-1; page 1 ), also the destination url are different even when the content is the same.
+This code save a file in html (Output.html) with a simple list where titles are transformed from h1 to h5, another script in the folder generates the table as displayed in the page /eventi
+
+Install the required Python packages by running:
+pip install beautifulsoup4 python-dateutil
+
+Clone the Repository
+
+Navigate to the Script Directory
+
+Run the Script
+
+Generated HTML Output:
+The script will extract event data from HTML files in the specified directory and generate an HTML file named output.html.
+Open output.html in a web browser to view the sorted list of event titles and dates.
+Important Note
+Ensure that the script is executed in a directory containing HTML files related to the "digipass.regione.umbria.it/evento" structure.
+
+Disclaimer
+This script is provided as-is and without any warranty. Use it at your own risk. It is recommended to test the script on a small set of
+files before applying it to a larger dataset. If you encounter issues, review the error messages in the terminal for troubleshooting.
+
+___________________________________________________________________
+
+tabeventi.py = WordPress Event Data Extraction and Listing
+
+This Python script is designed to extract event data from HTML files related to WordPress events. The extracted information includes the
+event title, date, and categories. The script generates an HTML file displaying a table with event details and provides clickable links to the original files.
+
+Install the required Python packages by running:
+pip install beautifulsoup4 python-dateutil
+
+Clone the Repository
+
+Navigate to the Script Directory
+
+Run the Script
+
+Generated HTML Output
+The script will extract event data from HTML files in the specified directory and generate an HTML file named output.html.
+Open output.html in a web browser to view the table of event details with clickable links.
+Important Note
+Ensure that the script is executed in a directory containing HTML files related to WordPress events.
+
+Output Structure
+The generated HTML output includes a table with columns for "Title" and "Organizzatore" (Organizer). Each row represents an event, 
+with clickable links to the original files.
+
+Disclaimer
+This script is provided as-is and without any warranty. Use it at your own risk. It is recommended to test the script on a small set
+of files before applying it to a larger dataset. If you encounter issues, review the error messages in the terminal for troubleshooting.
+___________________________________________________________________
+
+riferimentihhtrack.py = HTML Comment Removal Script
+This Python script utilizes BeautifulSoup to remove comments from HTML files that contain the specified keyword "HTTrack." 
+It recursively processes all HTML files in a given directory and its subdirectories, removing comments that match the specified criteria.
+
+Install the required Python packages by running:
+pip install beautifulsoup4
+
+Clone the Repository
+
+Navigate to the Script Directory
+
+Run the Script
+
+Specify Directory:
+
+Replace 'C:\\Users\\giuli\\Desktop\\digipass.regione.umbria.it' with the path to the folder containing your HTML files.
+Review Output:
+
+The script will process each HTML file in the specified directory and its subdirectories, removing comments containing the keyword "HTTrack."
+Important Note
+Ensure that the script is executed in a directory containing HTML files.
+
+Disclaimer
+This script is provided as-is and without any warranty. Use it at your own risk. It is recommended to test the script on a small set of files before applying 
+it to a larger dataset. If you encounter issues, review the error messages in the terminal for troubleshooting.
